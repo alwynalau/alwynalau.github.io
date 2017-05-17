@@ -1,0 +1,44 @@
+<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="alwynalau.github.io" resolutions="1x" timestamp="1494980305028">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="master_a-master.css" crc="266071243" ref="map:tenderloin-2:map-d:index:tenderloin-1:tenderloin-3:map-2:map-a:map-b:map-c"/>
+    <file name="map.css" crc="4162350237" ref="map"/>
+    <file name="tenderloin-2.css" crc="388696819" ref="tenderloin-2"/>
+    <file name="map-d.css" crc="352934531" ref="map-d"/>
+    <file name="index.css" crc="305721603" ref="index"/>
+    <file name="tenderloin-1.css" crc="81789021" ref="tenderloin-1"/>
+    <file name="tenderloin-3.css" crc="4108364253" ref="tenderloin-3"/>
+    <file name="map-2.css" crc="3867126689" ref="map-2"/>
+    <file name="map-a.css" crc="159639962" ref="map-a"/>
+    <file name="map-b.css" crc="4169780508" ref="map-b"/>
+    <file name="map-c.css" crc="4204356344" ref="map-c"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:map:tenderloin-1:tenderloin-2:tenderloin-3:map-2:map-a:map-b:map-c:map-d"/>
+    <file name="museutils.js" crc="4232573551" ref="index:map:tenderloin-1:tenderloin-2:tenderloin-3:map-2:map-a:map-b:map-c:map-d"/>
+    <file name="whatinput.js" crc="86476730" ref="index:map:tenderloin-1:tenderloin-2:tenderloin-3:map-2:map-a:map-b:map-c:map-d"/>
+    <file name="museconfig.js" crc="3849126041" ref="index:map:tenderloin-1:tenderloin-2:tenderloin-3:map-2:map-a:map-b:map-c:map-d"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3880853905" ref="index:map:tenderloin-1:tenderloin-2:tenderloin-3:map-2:map-a:map-b:map-c:map-d"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="index:map:tenderloin-1:tenderloin-2:tenderloin-3:map-2:map-a:map-b:map-c:map-d"/>
+    <file name="require.js" crc="4234670167" ref="index:map:tenderloin-1:tenderloin-2:tenderloin-3:map-2:map-a:map-b:map-c:map-d"/>
+  </folder>
+  <folder name="images">
+    <file name="sap_mock.jpg" crc="3905648973" ref="index:tenderloin-1:tenderloin-2:tenderloin-3">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screen shot 2017-04-05 at 42458 pm.jpg" crc="528238155" ref="map:map-2:map-a:map-b:map-c:map-d">
+      <caption webpage="map" alt=""/>
+    </file>
+    <file name="screen shot 2017-04-05 at 42458 pm-u747-fr.jpg" crc="271974462" ref="tenderloin-3"/>
+  </folder>
+  <file name="index.html" crc="74364819" seo="true" mt="1494976462338" redirect="true"/>
+  <file name="map.html" crc="421779434" seo="true" mt="1494976512997" redirect="true"/>
+  <file name="tenderloin-1.html" crc="3902612062" seo="true" mt="1494977909641" redirect="true"/>
+  <file name="tenderloin-2.html" crc="3970183075" seo="true" mt="1494976851983" redirect="true"/>
+  <file name="tenderloin-3.html" crc="4216459670" seo="true" mt="1494976887233" redirect="true"/>
+  <file name="map-2.html" crc="3882550184" seo="true" mt="1494977002587" redirect="true"/>
+  <file name="map-a.html" crc="56054291" seo="true" mt="1494978018752" redirect="true"/>
+  <file name="map-b.html" crc="534129940" seo="true" mt="1494977273896" redirect="true"/>
+  <file name="map-c.html" crc="355241139" seo="true" mt="1494977293468" redirect="true"/>
+  <file name="map-d.html" crc="99587685" seo="true" mt="1494977302865" redirect="true"/>
+</manifest>
